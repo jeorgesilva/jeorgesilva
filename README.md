@@ -41,6 +41,11 @@ Ich bin ein motivierter und lernwilliger Quereinsteiger mit soliden Kenntnissen 
 
 ## Projekte:
 
+* **[PyBank - Online-Banking-System (Python)](https://github.com/jeorgesilva/PyBank):** Ein grundlegendes Online-Banking-System mit Funktionen zur Benutzerregistrierung, Kontoverwaltung und Geldüberweisung. (Python)
+* **[CustomString - Erweiterte String-Klasse (Java)](https://github.com/jeorgesilva/CustomString):** Eine benutzerdefinierte Java-Klasse, die die Funktionalität von Strings erweitert und Unit-Tests enthält. (Java)
+* **[NumpyPandas - Datenanalyse mit Python](https://github.com/jeorgesilva/NumpyPandas):** Ein Python-Skript, das Datenanalyse mit Pandas und NumPy demonstriert, einschließlich Visualisierungen mit Matplotlib und Seaborn. (Python)
+* **[EinfachesSpiel - Zwei Minispiele in Java](https://github.com/jeorgesilva/EinfachesSpiel):** Ein Java-Projekt mit zwei einfachen Minispielen: Zeitumrechnung und Berechnung der Ziffernsumme. (Java)
+
 ## Projekte im Arbeit
 
 * **[Web Scraper (Python)]:** Ein Python-Skript zur Extraktion von Daten von Webseiten, das meine Fähigkeiten in `BeautifulSoup` und `requests` demonstriert.
