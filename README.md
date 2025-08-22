@@ -10,6 +10,7 @@ Ich bin ein motivierter und lernwilliger Quereinsteiger mit soliden Kenntnissen 
 
 * 🐍 Python
 * ☕ Java
+* 📊 SQL
 
 **Konzepte:**
 
