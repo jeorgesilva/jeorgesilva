@@ -25,7 +25,7 @@ Ich bin ein motivierter und lernwilliger Quereinsteiger mit soliden Kenntnissen 
 
 **Betriebssysteme:**
 
-* Windows, Linux
+* Windows, Linux, IOS
 
 **Netzwerk:**
 
