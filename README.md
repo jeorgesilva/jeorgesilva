@@ -56,6 +56,7 @@ Ich bin ein motivierter und lernwilliger Quereinsteiger mit soliden Kenntnissen 
 ## Aktuelles Lernen
 
 * Fullstack Software Developer Kurs (Coursera/IBM)
+* Data Science & AI (WBS Coding School)
 
 ## Sprachen
 
