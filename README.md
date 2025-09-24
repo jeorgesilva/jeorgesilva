@@ -42,6 +42,7 @@ Ich bin ein motivierter und lernwilliger Quereinsteiger mit soliden Kenntnissen 
 
 ## Projekte:
 
+* **[SQL business analysis](https://github.com/jeorgesilva/SQL_Business_analysis):** This project analyzes a Brazilian e-commerce dataset (Magist) to assess its suitability as a strategic partner for EINIAC, a high-end tech company looking to enter the Brazilian market. The analysis focuses on a specific period (April 2017 to March 2018), evaluating the platform's market potential for high-value products, its logistical efficiency, and overall operational reliability. (SQL)
 * **[PyBank - Online-Banking-System (Python)](https://github.com/jeorgesilva/PyBank):** Ein grundlegendes Online-Banking-System mit Funktionen zur Benutzerregistrierung, Kontoverwaltung und Geldüberweisung. (Python)
 * **[CustomString - Erweiterte String-Klasse (Java)](https://github.com/jeorgesilva/CustomString):** Eine benutzerdefinierte Java-Klasse, die die Funktionalität von Strings erweitert und Unit-Tests enthält. (Java)
 * **[NumpyPandas - Datenanalyse mit Python](https://github.com/jeorgesilva/NumpyPandas):** Ein Python-Skript, das Datenanalyse mit Pandas und NumPy demonstriert, einschließlich Visualisierungen mit Matplotlib und Seaborn. (Python)
