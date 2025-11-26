@@ -1,67 +1,83 @@
-# Hallo, ich bin Jeorge 👋
+# 👋 Hi, I’m Jeorge
 
-## Über mich
+## 👨‍🏫 About Me  
+I’m a multilingual linguist transitioning into Data Science & NLP.  
+With a background in education, communication, and text analysis, I bring human-centered thinking into machine learning and data work. I’m especially interested in **corpus curation, NLP, ethical AI, and accessibility through language technologies**.
 
-Ich bin ein motivierter und lernwilliger Quereinsteiger mit soliden Kenntnissen in Python und Java. Meine vorherige Erfahrung als Lehrer hat mir wertvolle Fähigkeiten in den Bereichen Kommunikation, Empathie, Organisation und Analyse vermittelt, die ich nun im IT-Bereich einsetzen möchte. Mein Ziel ist es, zur Entwicklung innovativer und wirkungsvoller Softwarelösungen beizutragen.
-
-## Fähigkeiten
-
-**Programmiersprachen:**
-
-* 🐍 Python
-* ☕ Java
-* 📊 SQL
-
-**Konzepte:**
-
-* 💡 Objektorientierte Programmierung (OOP)
-* 🧪 Testen mit JUnit
-
-**Bibliotheken/Tools:**
-
-* Pandas, NumPy, Matplotlib
-* Git, Conda, VS Code, Eclipse, Jupyter Notebook
-* SQL, MongoDB (Grundkenntnisse)
-
-**Betriebssysteme:**
-
-* Windows, Linux, IOS
-
-**Netzwerk:**
-
-* TCP/IP (Grundlagen)
-
-**Soft Skills:**
-
-* 🤝 Teamfähigkeit
-* ❤️ Empathie
-* 🧠 Analytisches Denken
-* 🗣️ Kommunikationsstärke
-* 🧩 Problemlösungsfähigkeit
-* 🚀 Eigeninitiative
-
-## Projekte:
-
-* **[PyBank - Online-Banking-System (Python)](https://github.com/jeorgesilva/PyBank):** Ein grundlegendes Online-Banking-System mit Funktionen zur Benutzerregistrierung, Kontoverwaltung und Geldüberweisung. (Python)
-* **[Business_analysis(SQL)](https://github.com/jeorgesilva/SQL_Business_analysis):** The analysis focuses on a specific period (April 2017 to March 2018), evaluating the platform's market potential for high-value products, its logistical efficiency, and overall operational reliability.(SQL)
-* **[EinfachesSpiel - Zwei Minispiele in Java](https://github.com/jeorgesilva/EinfachesSpiel):** Ein Java-Projekt mit zwei einfachen Minispielen: Zeitumrechnung und Berechnung der Ziffernsumme. (Java)
-
-## Projekte im Arbeit
-
-* **[Web Scraper (Python)]:** Ein Python-Skript zur Extraktion von Daten von Webseiten, das meine Fähigkeiten in `BeautifulSoup` und `requests` demonstriert.
-* **[Aufgabenmanager (Python/Tkinter)]:** Eine Anwendung zur Aufgabenverwaltung, die meine Kenntnisse in OOP und GUI-Entwicklung mit Tkinter zeigt.
-* **[Taschenrechner (Java/Swing)]:** Ein Taschenrechner mit grafischer Benutzeroberfläche in Java, der meine Fähigkeiten in `Swing` und OOP hervorhebt.
-
-## Aktuelles Lernen
-
-* Fullstack Software Developer Kurs (Coursera/IBM)
-* Data Science & AI (WBS Coding School)
-
-## Sprachen
-
-* 🇩🇪 Deutsch: C1
-* 🇧🇷 Portugiesisch: Muttersprache
-* 🇬🇧 Englisch: C1
-* 🇪🇸 Spanisch: B1
+I’m currently training in **Data Science & AI** at WBS Coding School (Germany) while building portfolio projects in Python, SQL, and Linguistic Data.
 
 ---
+
+## 🧠 Skills
+
+### 🔤 Programming
+- 🐍 **Python**
+- 📊 **SQL**
+- ☕ **Java** (foundational)
+
+### 📚 Concepts
+- 🧩 Object-Oriented Programming (OOP)
+- 📉 Data Cleaning, EDA & Feature Engineering
+- 🔤 NLP Basics & Corpus Annotation
+- 🧪 Unit Testing (JUnit)
+
+### 🛠️ Libraries & Tools
+- **Python:** Pandas, NumPy, Matplotlib, Seaborn
+- **Web/Data:** BeautifulSoup, Requests, SQLAlchemy
+- **Visualization:** Tableau, looker studio
+- **Backend:** Django (basics)
+- **Cloud:** Google Cloud (basics)
+- **Dev Tools:** Git, Conda, Jupyter Notebook, VS Code, Eclipse
+- **Databases:** SQL, MongoDB (basic)
+
+### 🖥️ Operating Systems
+- Windows, macOS
+
+### 🌐 Networking Basics
+- TCP/IP (Introduction)
+
+### 🤝 Soft Skills
+- Team collaboration  
+- Empathy & clear communication  
+- Analytical & structured thinking  
+- Problem solving  
+- Initiative & self-learning  
+
+---
+
+## 📌 Projects
+
+### 🔐 [PyBank – Online Banking System (Python)](https://github.com/jeorgesilva/PyBank)
+Basic online banking tool featuring user registration, account management and transfers.
+
+### 📊 [SQL Business Analysis](https://github.com/jeorgesilva/SQL_Business_analysis)
+Data analysis of a Brazilian e-commerce dataset. Includes logistics evaluation, revenue insights, operational reliability and product value performance.
+
+### 🎮 [EinfachesSpiel – Java Mini-Games](https://github.com/jeorgesilva/EinfachesSpiel)
+Two simple Java games: time conversion and digit sum calculator.
+
+---
+
+## 🧪 Work in Progress
+
+- 🕸️ **Library manager (Python)(SQL)**: Preparing UI with streamlit
+- 🔤 **Corpus Review Contributions**: Reviewing and correcting linguistic dataset entries on open-source platforms
+
+---
+
+## 📚 Currently Learning
+- Data Science & AI (WBS Coding School, Germany)
+- Full-Stack Software Development (IBM/Coursera)
+
+---
+
+## 🌍 Languages
+- 🇧🇷 Portuguese – Native  
+- 🇬🇧 English – C1  
+- 🇩🇪 German – B2 
+- 🇪🇸 Spanish – C1  
+
+---
+
+🎯 *My goal is to help build responsible and inclusive language technologies that empower people through data and AI.*
+
