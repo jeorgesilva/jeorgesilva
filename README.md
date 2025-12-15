@@ -10,26 +10,41 @@ I’m currently training in **Data Science & AI** at WBS Coding School (Germany)
 
 ## 🧠 Skills
 
-### 🔤 Programming
+### 🔤 Programming & Querying
 - 🐍 **Python**
 - 📊 **SQL**
 - ☕ **Java** (foundational)
 
-### 📚 Concepts
-- 🧩 Object-Oriented Programming (OOP)
-- 📉 Data Cleaning, EDA & Feature Engineering
-- 🔤 NLP Basics & Corpus Annotation
-- 🧪 Unit Testing (JUnit)
+### 🧩 Data & NLP Concepts
+- Data Cleaning, EDA & Feature Engineering
+- Statistical Analysis & Experiment Design (basics)
+- NLP Fundamentals: text preprocessing, tokenization, labeling
+- Corpus Review & Linguistic Data Annotation
+- Model Evaluation & Error Analysis (introductory)
 
-### 🛠️ Libraries & Tools
-- **Python:** Pandas, NumPy, Matplotlib, Seaborn
-- **Web/Data:** BeautifulSoup, Requests, SQLAlchemy
-- **Visualization:** Tableau, looker studio
+### 🛠️ Libraries & Frameworks
+- **Data & ML:** Pandas, NumPy, Scikit-learn
+- **Visualization:** Matplotlib, Seaborn, Tableau, Looker Studio
+- **Web & Data Access:** Requests, BeautifulSoup, SQLAlchemy
 - **Backend:** Django (basics)
-- **Cloud:** Google Cloud (basics)
-- **Dev Tools:** Git, Conda, Jupyter Notebook, VS Code, Eclipse
-- **Databases:** SQL, MongoDB (basic)
+- **NLP:** Hugging Face ecosystem (introductory)
 
+### ☁️ Cloud & Tooling
+- Google Cloud Platform (basics)
+- Microsoft Azure (Basics)
+- Git & GitHub (collaboration, forks, PRs)
+- Conda, Jupyter Notebook
+- VS Code, Eclipse
+
+### 🗄️ Databases
+- Relational Databases (SQL)
+- NoSQL: MongoDB (basic)
+
+### 🧠 Transferable Skills (from Linguistics & Education)
+- Structured thinking & analytical reasoning
+- Clear communication of complex concepts
+- Attention to detail (language, annotation, evaluation)
+- User-centered and inclusive perspective
 ### 🖥️ Operating Systems
 - Windows, macOS
 
