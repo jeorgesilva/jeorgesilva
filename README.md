@@ -47,29 +47,43 @@ I’m currently training in **Data Science & AI** at WBS Coding School (Germany)
 
 ## 📌 Projects
 
+### 📚 [Liane’s Library](https://github.com/jeorgesilva/lianes-library)
+A user-friendly book lending system designed to track borrowed books, return dates, and overdue items.  
+Focus on practical problem-solving, data modeling, and user-oriented design.
+
 ### 🔐 [PyBank – Online Banking System (Python)](https://github.com/jeorgesilva/PyBank)
-Basic online banking tool featuring user registration, account management and transfers.
+Basic online banking tool featuring user registration, account management and transfers. Focus on Python fundamentals, data structures, and clean code practices.
 
 ### 📊 [SQL Business Analysis](https://github.com/jeorgesilva/SQL_Business_analysis)
-Data analysis of a Brazilian e-commerce dataset. Includes logistics evaluation, revenue insights, operational reliability and product value performance.
+Data analysis of a Brazilian e-commerce dataset, including logistics evaluation, revenue insights, operational reliability, and product value performance using SQL.
 
-### 🎮 [EinfachesSpiel – Java Mini-Games](https://github.com/jeorgesilva/EinfachesSpiel)
-Two simple Java games: time conversion and digit sum calculator.
+--
+
+## 🧩 Open Source Exploration & Contributions
+
+### 🤖 [Generative AI Project Template](https://github.com/jeorgesilva/generative_ai_project) *(Forked)*
+Production-ready template for structuring Generative AI projects.  
+Used to study scalable project architecture, prompt workflows, and best practices for GenAI development.
+
+### 📈 [Yellowbrick](https://github.com/jeorgesilva/yellowbrick) *(Forked)*
+Visual analysis and diagnostic tools for machine learning model selection.  
+Exploring model evaluation, performance visualization, and interpretability techniques.
+
+### 📰 [Fake News Detection with Machine Learning](https://github.com/jeorgesilva/Fake-News-Detection-with-Machine-Learning) *(Forked)*
+Machine learning pipeline for detecting fake news.  
+Used to explore text preprocessing, feature extraction, and supervised learning for NLP tasks.
 
 ---
 
 ## 🧪 Work in Progress
 
-- 🕸️ **Library manager (Python)(SQL)**: Preparing UI with streamlit
-- 🔤 **Corpus Review Contributions**: Reviewing and correcting linguistic dataset entries on open-source platforms
+- 🔤 **Corpus Review Contributions**  
+  Reviewing and correcting linguistic dataset entries, focusing on metadata quality and consistency  
+  🔗 [Mozilla Common Voice](https://commonvoice.mozilla.org/en/datasets)
 
 ---
 
-## 📚 Currently Learning
-- Data Science & AI (WBS Coding School, Germany)
-- Full-Stack Software Development (IBM/Coursera)
 
----
 
 ## 🌍 Languages
 - 🇧🇷 Portuguese – Native  
