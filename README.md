@@ -1,8 +1,8 @@
 # 👋 Hi, I’m Jeorge
 
 ## 👨‍🏫 About Me  
-I’m a multilingual linguist transitioning into Data Science & NLP.  
-With a background in education, communication, and text analysis, I bring human-centered thinking into machine learning and data work. I’m especially interested in **corpus curation, NLP, ethical AI, and accessibility through language technologies**.
+I’m a linguist transitioning into Data Science & NLP.  
+With a background in education and linguistic, I bring human-centered thinking into machine learning and data work. I’m especially interested in **corpus curation, NLP, ethical AI, and accessibility through language technologies**.
 
 I’m currently training in **Data Science & AI** at WBS Coding School (Germany) while building portfolio projects in Python, SQL, and Linguistic Data.
 
