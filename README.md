@@ -66,27 +66,20 @@ I’m currently training in **Data Science & AI** at WBS Coding School (Germany)
 A user-friendly book lending system designed to track borrowed books, return dates, and overdue items.  
 Focus on practical problem-solving, data modeling, and user-oriented design.
 
-### 🔐 [PyBank – Online Banking System (Python)](https://github.com/jeorgesilva/PyBank)
-Basic online banking tool featuring user registration, account management and transfers. Focus on Python fundamentals, data structures, and clean code practices.
+### 🌱 [Precision Weed Detection & VRA Mapping](https://github.com/jeorgesilva/AgroVision)
+Applying Computer Vision to Agricultural Efficiency.
+Developed an early-stage weed detection model using YOLOv8.
+Integrated geospatial processing to generate Variable-Rate Application (VRA) maps, allowing for targeted herbicide use.
+Tech Stack: Python, YOLOv8, OpenCV, Geopandas.
+
+### ⚽ [YOLOv8 Ball Detection & Tracking](https://github.com/jeorgesilva/ball_detection_training)
+High-performance object detection project identifying and tracking high-speed movement.
+Served as the architectural foundation for my transition into agricultural computer vision tasks.
+Tech Stack: Python, Ultralytics, Computer Vision.
 
 ### 📊 [SQL Business Analysis](https://github.com/jeorgesilva/SQL_Business_analysis)
 Data analysis of a Brazilian e-commerce dataset, including logistics evaluation, revenue insights, operational reliability, and product value performance using SQL.
 
---
-
-## 🧩 Open Source Exploration & Contributions
-
-### 🤖 [Generative AI Project Template](https://github.com/jeorgesilva/generative_ai_project) *(Forked)*
-Production-ready template for structuring Generative AI projects.  
-Used to study scalable project architecture, prompt workflows, and best practices for GenAI development.
-
-### 📈 [Yellowbrick](https://github.com/jeorgesilva/yellowbrick) *(Forked)*
-Visual analysis and diagnostic tools for machine learning model selection.  
-Exploring model evaluation, performance visualization, and interpretability techniques.
-
-### 📰 [Fake News Detection with Machine Learning](https://github.com/jeorgesilva/Fake-News-Detection-with-Machine-Learning) *(Forked)*
-Machine learning pipeline for detecting fake news.  
-Used to explore text preprocessing, feature extraction, and supervised learning for NLP tasks.
 
 ---
 
