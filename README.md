@@ -3,7 +3,7 @@
 ## 👨‍🏫 About Me  
 I’m a linguist transitioning into Data Science & AI.  
 
-With a solid foundation in linguistics and intensive technical training in AI, I bring a unique analytical perspective to Data Science and technical efficiency. I specialize in utilizing Machine Learning, Computer Vision, and Cloud workflows to automate processes and extract actionable insights from complex datasets. My goal is to drive innovation by bridging the gap between human logic and scalable AI solutions to solve real-world industrial and business challenges.
+With a solid foundation in technical training in Data Science and AI, I specialize in utilizing Machine Learning, Computer Vision, and Cloud workflows to automate processes and extract actionable insights from complex datasets. My goal is to drive innovation by bridging the gap between human logic and scalable AI solutions to solve real-world industrial and business challenges.
 
 I’m currently training in **Data Science & AI** at WBS Coding School (Germany) while building portfolio projects in Python, SQL, and Linguistic Data.
 
@@ -14,8 +14,8 @@ I’m currently training in **Data Science & AI** at WBS Coding School (Germany)
 ### 🔤 Programming & Querying
 - 🐍 **Python**
 - 📊 **SQL**
-- ☕ **Java** (foundational)
-
+- ☕ **Java**
+- 
 ### 🧩 Data & NLP Concepts
 - Data Cleaning, EDA & Feature Engineering
 - Statistical Analysis & Experiment Design (basics)
@@ -46,6 +46,7 @@ I’m currently training in **Data Science & AI** at WBS Coding School (Germany)
 - Clear communication of complex concepts
 - Attention to detail (language, annotation, evaluation)
 - User-centered and inclusive perspective
+  
 ### 🖥️ Operating Systems
 - Windows, macOS
 
