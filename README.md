@@ -1,4 +1,5 @@
 # 👋 Hi, I’m Jeorge
+![Portuguese](https://img.shields.io/badge/Portuguese-Native-brightgreen?style=for-the-badge) ![English](https://img.shields.io/badge/English-C1-blue?style=for-the-badge) ![German](https://img.shields.io/badge/German-B2-yellow?style=for-the-badge) ![Spanish](https://img.shields.io/badge/Spanish-C1-red?style=for-the-badge)
 
 I’m a linguist transitioning into Data Science & AI.  
 
@@ -40,15 +41,7 @@ Kreditmanagementsystem, das relationale SQL‑Datenbanken mit KI‑gestützter A
 **Tech Stack:** Python, SQL, NLP, Semantische Suche, Sentiment‑Analyse.
 
 ---
-
-## 🌍 Languages
-- 🇧🇷 Portuguese – Native  
-- 🇬🇧 English – C1  
-- 🇩🇪 German – B2 
-- 🇪🇸 Spanish – C1  
-
----
-[![](https://komarev.com/ghpvc/?username=jeorgesilva&icon=0&color=0)](https://visitcount.itsvg.in)
+[![Visitor count](https://komarev.com/ghpvc/?username=jeorgesilva)](https://github.com/jeorgesilva)
 
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/jeorgesilva) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/jeorgeSilva) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/jeorgecassil) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/jeorgesilva) 
