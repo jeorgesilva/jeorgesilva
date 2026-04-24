@@ -1,9 +1,7 @@
 # 👋 Hi, I’m Jeorge
 ![Portuguese](https://img.shields.io/badge/Portuguese-Native-brightgreen?style=for-the-badge) ![English](https://img.shields.io/badge/English-C1-blue?style=for-the-badge) ![German](https://img.shields.io/badge/German-B2-yellow?style=for-the-badge) ![Spanish](https://img.shields.io/badge/Spanish-C1-red?style=for-the-badge)
 
-I’m a linguist transitioning into Data Science & AI.  
-
-With a solid foundation in technical training in Data Science and AI, I specialize in utilizing Machine Learning, Computer Vision, and Cloud workflows to automate processes and extract actionable insights from complex datasets. My goal is to drive innovation by bridging the gap between human logic and scalable AI solutions to solve real-world industrial and business challenges.
+Ich bin Linguist und mache den Übergang in Data Science und KI. Mit fundierter technischer Ausbildung in Data Science und Machine Learning setze ich Computer Vision, statistische Modellierung und Cloud‑Workflows ein, um Prozesse zu automatisieren und aus komplexen Datensätzen verwertbare Erkenntnisse zu gewinnen. Ich entwickle skalierbare Pipelines, die fachliches Wissen in reproduzierbare KI‑Lösungen übersetzen, mit Fokus auf industrielle und geschäftliche Probleme, bei denen messbarer Nutzen zählt.
 
 ---
 | | |
