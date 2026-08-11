@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Jeorge
 
-![Portuguese](https://img.shields.io/badge/Portuguese-Native-brightgreen?style=for-the-badge) ![English](https://img.shields.io/badge/English-C1-blue?style=for-the-badge) ![German](https://img.shields.io/badge/German-B2-yellow?style=for-the-badge) ![Spanish](https://img.shields.io/badge/Spanish-C1-red?style=for-the-badge)
+![Portuguese](https://img.shields.io/badge/Portuguese-Native-brightgreen?style=for-the-badge) ![English](https://img.shields.io/badge/English-C1-blue?style=for-the-badge) ![German](https://img.shields.io/badge/German-C1-yellow?style=for-the-badge) ![Spanish](https://img.shields.io/badge/Spanish-C1-red?style=for-the-badge)
 
 Ich bin Linguist und mache den Übergang in Data Science und KI. Mit fundierter technischer Ausbildung in Data Science und Machine Learning entwickle ich LLM- und RAG-basierte Anwendungen sowie datengetriebene Lösungen — von der Datenverarbeitung bis zur API-Bereitstellung, mit Fokus auf NLP.
 
