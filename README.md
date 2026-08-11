@@ -11,7 +11,7 @@ Ich bin Linguist und mache den Übergang in Data Science und KI. Mit fundierter 
 | 🔭 **Woran ich gerade arbeite** | Produktive LLM/RAG-Systeme; RAG-gestützter Deutsch Lernen App |
 | 🌱 **Was ich gerade lerne** | WBS Data Science & AI; Vertiefung in RAG und LLMOps |
 | 💬 **Frag mich nach** | RAG-Design, Embedding-Strategien, Prompt Engineering, linguistische Datenaufbereitung |
-| ⚡ **Fun Fact** | B.A. in Linguistik (Universidade de Brasília) — großer Vorteil bei semantischer Datenaufbereitung |
+| ⚡ **Fun Fact** | Ich habe meine eigene App entwickelt, um Deutsch zu lernen, und dabei meine Fähigkeiten als Lehrer und Entwickler genutzt, um mein autodidaktisches Lernen auf ein ganz neues Level zu heben.|
 
 ---
 
