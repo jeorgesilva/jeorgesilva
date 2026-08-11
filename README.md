@@ -8,7 +8,7 @@ Ich bin Linguist und mache den Übergang in Data Science und KI. Mit fundierter 
 
 | | |
 |---|---|
-| 🔭 **Woran ich gerade arbeite** | Produktive LLM/RAG-Systeme bei LogAId (Hamburg); RAG-gestützter KI-Tutor (Teacher_Isa) |
+| 🔭 **Woran ich gerade arbeite** | Produktive LLM/RAG-Systeme; RAG-gestützter Deutsch Lernen App |
 | 🌱 **Was ich gerade lerne** | WBS Data Science & AI; Vertiefung in RAG und LLMOps |
 | 💬 **Frag mich nach** | RAG-Design, Embedding-Strategien, Prompt Engineering, linguistische Datenaufbereitung |
 | ⚡ **Fun Fact** | B.A. in Linguistik (Universidade de Brasília) — großer Vorteil bei semantischer Datenaufbereitung |
